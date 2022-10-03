@@ -14,7 +14,7 @@
 
 ### International
 
-1. How many unique countries compose the top 50 rated players?
+1. How many unique countries compose the top 50 rated players? 100 Players?
 
     a) Are there countries that stand out amongst the rest?
     
