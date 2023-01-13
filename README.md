@@ -1,5 +1,7 @@
 # Exploratory Data Analysis on FIFA 19
 
+<img src = "https://media.giphy.com/media/J21KMoLpEPwHJ0nsV1/giphy.gif" width = "500" height = "250" />
+
 ## Purpose and goals:
 
 1. Understand the variables
